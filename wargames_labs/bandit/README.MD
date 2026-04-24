@@ -16,10 +16,7 @@ https://overthewire.org/wargames/bandit/
   - 🇷🇺 [RU](levels/0_ru_bandit.md)  
   - 🇬🇧 [EN](levels/0_en_bandit.md)
 
-- Level 0 → 1  
-  - 🇷🇺 [RU](levels/0-1_ru_bandit.md)  
-  - 🇬🇧 [EN](levels/0-1_en_bandit.md)
-
 - Level 1 → 2  
   - 🇷🇺 [RU](levels/1-2_ru_bandit.md)  
   - 🇬🇧 [EN](levels/1-2_en_bandit.md)
+
