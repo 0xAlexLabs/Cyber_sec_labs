@@ -35,28 +35,28 @@ https://app.hackthebox.com/
 ### 🔰 Starting Point
 
 - Meow  
-  - 🇷🇺 [RU](./001_ru_htb_meow.md)  
-  - 🇬🇧 [EN](./001_en_htb_meow.md)
+  - 🇷🇺 [RU](./labs/001_ru_htb_meow.md)  
+  - 🇬🇧 [EN](./labs/001_en_htb_meow.md)
 
 - Fawn  
-  - 🇷🇺 [RU](./002_ru_htb_fawn.md)  
-  - 🇬🇧 [EN](./002_en_htb_fawn.md)
+  - 🇷🇺 [RU](./labs/002_ru_htb_fawn.md)  
+  - 🇬🇧 [EN](./labs/002_en_htb_fawn.md)
 
 - Dancing  
-  - 🇷🇺 [RU](./003_ru_htb_dancing.md)  
-  - 🇬🇧 [EN](./003_en_htb_dancing.md)
+  - 🇷🇺 [RU](./labs/003_ru_htb_dancing.md)  
+  - 🇬🇧 [EN](./labs/003_en_htb_dancing.md)
 
 - Redeemer  
-  - 🇷🇺 [RU](./004_ru_htb_redeemer.md)  
-  - 🇬🇧 [EN](./004_en_htb_redeemer.md)
+  - 🇷🇺 [RU](./labs/004_ru_htb_redeemer.md)  
+  - 🇬🇧 [EN](./labs/004_en_htb_redeemer.md)
 
 - Appointment  
-  - 🇷🇺 [RU](./005_ru_htb_appointment.md)  
-  - 🇬🇧 [EN](./005_en_htb_appointment.md)
+  - 🇷🇺 [RU](./labs/005_ru_htb_appointment.md)  
+  - 🇬🇧 [EN](./labs/005_en_htb_appointment.md)
 
 - Sequel  
-  - 🇷🇺 [RU](./006_ru_htb_sequel.md)  
-  - 🇬🇧 [EN](./006_en_htb_sequel.md)
+  - 🇷🇺 [RU](./labs/006_ru_htb_sequel.md)  
+  - 🇬🇧 [EN](./labs/006_en_htb_sequel.md)
 
 ---
 
