@@ -52,6 +52,9 @@ https://app.hackthebox.com/
 6. Sequel  
   [RU](./labs/006_ru_htb_sequel.md) / [EN](./labs/006_en_htb_sequel.md)
 
+7. Crocodile  
+  [RU](./labs/007_ru_htb_crocodile.md) / [EN](./labs/007_en_htb_crocodile.md)
+
 ---
 
 ## 🧠 Примечание
