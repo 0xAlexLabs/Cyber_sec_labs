@@ -55,6 +55,9 @@ https://app.hackthebox.com/
 7. Crocodile  
   [RU](./labs/007_ru_htb_crocodile.md) / [EN](./labs/007_en_htb_crocodile.md)
 
+8. Responder  
+  [RU](./labs/008_ru_htb_responder.md) / [EN](./labs/008_en_htb_responder.md)
+
 ---
 
 ## 🧠 Примечание
