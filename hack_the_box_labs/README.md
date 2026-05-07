@@ -58,6 +58,9 @@ https://app.hackthebox.com/
 8. Responder  
   [RU](./labs/008_ru_htb_responder.md) / [EN](./labs/008_en_htb_responder.md)
 
+9. Three  
+  [RU](./labs/009_ru_htb_three.md) / [EN](./labs/009_en_htb_three.md)
+
 ---
 
 ## 🧠 Примечание
