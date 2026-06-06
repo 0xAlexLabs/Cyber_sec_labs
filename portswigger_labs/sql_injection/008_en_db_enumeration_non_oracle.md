@@ -2,7 +2,7 @@
 
 <a id="top"></a>
 
-> 🔗 Lab: SQL injection attack, listing the database contents on non-Oracle databases
+> 🔗 Lab: https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle
 
 ---
 

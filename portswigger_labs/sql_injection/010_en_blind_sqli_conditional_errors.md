@@ -2,7 +2,7 @@
 
 <a id="top"></a>
 
-> 🔗 Lab: Blind SQL injection with conditional errors
+> 🔗 Lab: https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
 
 ---
 

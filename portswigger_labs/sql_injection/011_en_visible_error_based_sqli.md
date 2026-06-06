@@ -2,24 +2,27 @@
 
 <a id="top"></a>
 
-> 🔗 Lab: Visible error-based SQL injection
+> 🔗 Lab: https://portswigger.net/web-security/sql-injection/blind/lab-sql-injection-visible-error-based
 
 ---
 
 # 📑 Contents
 
-- [🎯 Goal](#goal)
-- [🧠 Theory](#theory)
-- [🔍 Step 1 — Confirm SQL Injection](#step1)
-- [🔍 Step 2 — Fix Query Syntax](#step2)
-- [🔍 Step 3 — Verify Subquery Execution](#step3)
-- [🔍 Step 4 — Extract Username](#step4)
-- [🔍 Step 5 — Extract Password](#step5)
-- [🔍 Step 6 — Login as administrator](#step6)
-- [🧩 Payloads Used](#payloads)
-- [💥 Why the Attack Worked](#why)
-- [🛡 Mitigation](#defense)
-- [🛠 Checklist](#checklist)
+- [📘 PortSwigger Lab 011: Visible Error-Based SQL Injection](#-portswigger-lab-011-visible-error-based-sql-injection)
+- [📑 Contents](#-contents)
+- [🎯 Goal](#-goal)
+- [🧠 Theory](#-theory)
+- [🔍 Step 1 — Confirm SQL Injection](#-step-1--confirm-sql-injection)
+- [🔍 Step 2 — Fix Query Syntax](#-step-2--fix-query-syntax)
+- [🔍 Step 3 — Verify Subquery Execution](#-step-3--verify-subquery-execution)
+- [🔍 Step 4 — Extract Username](#-step-4--extract-username)
+- [🔍 Step 5 — Extract Password](#-step-5--extract-password)
+- [🔍 Step 6 — Login as administrator](#-step-6--login-as-administrator)
+- [🧩 Payloads Used](#-payloads-used)
+- [💥 Why the Attack Worked](#-why-the-attack-worked)
+- [🛡 Mitigation](#-mitigation)
+- [🛠 Checklist](#-checklist)
+- [⬆ Back to Top](#-back-to-top)
 
 ---
 

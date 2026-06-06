@@ -2,23 +2,26 @@
 
 <a id="top"></a>
 
-> 🔗 Lab: Blind SQL injection with conditional responses
+> 🔗 Lab: https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
 
 ---
 
 ## 📑 Table of Contents
 
-- [🎯 Goal](#goal)
-- [🧠 Attack idea](#idea)
-- [🔍 Step 1 — Confirm Blind SQLi](#step1)
-- [🔍 Step 2 — Check administrator user](#step2)
-- [🔍 Step 3 — Determine password length](#step3)
-- [🔍 Step 4 — Extract password manually](#step4)
-- [🔍 Step 5 — Login as administrator](#step5)
-- [🧩 Payloads used](#payloads)
-- [💥 Why the attack worked](#why)
-- [🛡 Defense](#defense)
-- [🛠 Checklist](#checklist)
+- [📘 PortSwigger Lab: Blind SQL Injection with Conditional Responses](#-portswigger-lab-blind-sql-injection-with-conditional-responses)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🎯 Goal](#-goal)
+  - [🧠 Attack idea](#-attack-idea)
+  - [🔍 Step 1 — Confirm Blind SQLi](#-step-1--confirm-blind-sqli)
+  - [🔍 Step 2 — Check administrator user](#-step-2--check-administrator-user)
+  - [🔍 Step 3 — Determine password length](#-step-3--determine-password-length)
+  - [🔍 Step 4 — Extract password manually](#-step-4--extract-password-manually)
+  - [🔍 Step 5 — Login as administrator](#-step-5--login-as-administrator)
+  - [🧩 Payloads used](#-payloads-used)
+  - [💥 Why the attack worked](#-why-the-attack-worked)
+  - [🛡 Defense](#-defense)
+  - [🛠 Checklist](#-checklist)
+- [⬆ Back to top](#-back-to-top)
 
 ---
 

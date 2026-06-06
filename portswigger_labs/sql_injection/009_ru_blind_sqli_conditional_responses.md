@@ -2,23 +2,26 @@
 
 <a id="top"></a>
 
-> 🔗 Лаба: Blind SQL injection with conditional responses
+> 🔗 Лаба: https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
 
 ---
 
 ## 📑 Содержание
 
-- [🎯 Цель](#goal)
-- [🧠 Идея атаки](#idea)
-- [🔍 Шаг 1 — Подтверждение Blind SQLi](#step1)
-- [🔍 Шаг 2 — Проверка пользователя administrator](#step2)
-- [🔍 Шаг 3 — Определение длины пароля](#step3)
-- [🔍 Шаг 4 — Поиск символов пароля вручную](#step4)
-- [🔍 Шаг 5 — Вход под administrator](#step5)
-- [🧩 Использованные payloads](#payloads)
-- [💥 Почему атака сработала](#why)
-- [🛡 Защита](#defense)
-- [🛠 Чеклист](#checklist)
+- [📘 PortSwigger Lab: Blind SQL Injection with Conditional Responses](#-portswigger-lab-blind-sql-injection-with-conditional-responses)
+  - [📑 Содержание](#-содержание)
+  - [🎯 Цель](#-цель)
+  - [🧠 Идея атаки](#-идея-атаки)
+  - [🔍 Шаг 1 — Подтверждение Blind SQLi](#-шаг-1--подтверждение-blind-sqli)
+  - [🔍 Шаг 2 — Проверка пользователя administrator](#-шаг-2--проверка-пользователя-administrator)
+  - [🔍 Шаг 3 — Определение длины пароля](#-шаг-3--определение-длины-пароля)
+  - [🔍 Шаг 4 — Поиск символов пароля вручную](#-шаг-4--поиск-символов-пароля-вручную)
+  - [🔍 Шаг 5 — Вход под administrator](#-шаг-5--вход-под-administrator)
+  - [🧩 Использованные payloads](#-использованные-payloads)
+  - [💥 Почему атака сработала](#-почему-атака-сработала)
+  - [🛡 Защита](#-защита)
+  - [🛠 Чеклист](#-чеклист)
+- [⬆ Наверх](#-наверх)
 
 ---
 
