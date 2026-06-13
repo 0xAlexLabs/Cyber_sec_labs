@@ -54,6 +54,8 @@ https://app.hackthebox.com/
 
 10. Unified [RU](./labs/010_ru_htb_unified.md) / [EN](./labs/010_en_htb_unified.md)
 
+11. Unified [RU](./labs/011_ru_htb_cap.md) / [EN](./labs/011_en_htb_cap.md)
+
 
 ---
 
